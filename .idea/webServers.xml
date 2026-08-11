@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="d93b14f8-fbac-415e-9bd7-c9f8cf445993" name="newsmood.fastkernel.ru" url="https://newsmood.fastkernel.ru">
+        <fileTransfer accessType="SFTP" host="192.168.0.102" port="2222" sshConfigId="364359fc-f474-4dec-86d6-e275ab9d0c72" sshConfig="newsmood_fas@192.168.0.102:2222 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
